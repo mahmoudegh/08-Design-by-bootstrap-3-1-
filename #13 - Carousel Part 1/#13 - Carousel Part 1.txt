@@ -1,0 +1,1 @@
+style="width:100%" ==> Important to Make Image Fill The Slider

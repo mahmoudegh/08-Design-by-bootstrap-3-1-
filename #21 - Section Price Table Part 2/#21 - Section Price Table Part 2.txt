@@ -1,0 +1,7 @@
+list-unstyled
+class="btn btn-primary"
+class="text-primary"==>Blue Color
+class="text-success"==>Green Color
+class="text-info"==>Blue Color
+class="text-danger"==>Red Color
+class="center-block"==>Convert From Inline to Block & Center

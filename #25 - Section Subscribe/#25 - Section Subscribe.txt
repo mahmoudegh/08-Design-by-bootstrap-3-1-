@@ -1,0 +1,5 @@
+<form class="form-inline"></form>
+<input class="form-control" type="text">
+<input class="form-control input-lg" type="text">
+<button class="btn btn-danger"></button>
+<button class="btn btn-danger btn-lg"></button>

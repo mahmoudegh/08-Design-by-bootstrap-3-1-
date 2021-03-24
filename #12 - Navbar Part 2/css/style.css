@@ -1,0 +1,118 @@
+/* Global */
+.links
+{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #CCC
+}
+/* Global */
+
+body
+{
+  padding-top: 70px
+}
+
+/* Main Navbar */
+.navbar{
+  min-height: 70px
+}
+
+/* Active Link */
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus
+{
+  background-color: #E41B17
+}
+
+/* Navbar Link */
+.navbar-inverse .navbar-nav > li > a
+{
+  color: #BBB;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-size: 16px
+}
+
+/* Brand Name */
+.navbar-inverse .navbar-brand
+{
+  color: #BBB;
+  font-size: 30px;
+  line-height: 40px
+}
+
+.navbar-inverse .navbar-brand span
+{
+  color: #E41B17
+}
+
+/* Dropdown Menu */
+.dropdown-menu
+{
+  background-color: #333;
+  border-top: 3px solid #E41B17;
+  min-width: 200px
+}
+
+/* Make Dropdown Menu Start From Left */
+.navbar-right .dropdown-menu
+{
+  left: 0;
+  right: auto
+}
+
+.dropdown-menu > li > a
+{
+  color: #FFF;
+  padding: 6px 20px;
+  -webkit-transition: padding .5s ease;
+  -moz-transition: padding .5s ease;
+  -o-transition: padding .5s ease;
+  transition: padding .5s ease
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+{
+  background-color: #E41B17;
+  color: #FFF;
+  padding-left: 25px
+}
+
+.dropdown-menu .divider
+{
+  background-color: #871818
+}
+
+/* Navbar Toggle */
+.navbar-toggle
+{
+  margin-top: 18px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* # */

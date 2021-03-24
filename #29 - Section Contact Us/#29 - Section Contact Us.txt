@@ -1,0 +1,29 @@
+<form role="form">
+  <div class="form-group">
+    <input type="text" class="form-control input-lg">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control">
+  </div>
+</form>
+
+======================================================================
+
+<div class="form-group">
+  <textarea class="form-control input-lg" placeholder="Your Message"></textarea>
+</div>
+
+<button type="button" class="btn btn-primary btn-lg btn-block">Contact Us</button>
+
+=====================================================================================
+
+Dark Version By Css
+===================
+.contact-us input[type="text"],
+.contact-us textarea
+{
+  background: rgba(82,78,78,0.5);
+  color: #FFF;
+  border: 0
+}

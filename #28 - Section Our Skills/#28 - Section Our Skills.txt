@@ -1,0 +1,29 @@
+<div class="progress">  <===== [Outer Line Of Progressbar]
+
+  <div class="progress-bar progress-bar-success(color)  progress-bar-striped(shape)  active(motion)"
+       role="progressbar"
+       aria-valuenow="80"
+       aria-valuemin="0"
+       aria-valuemax="100"
+       style="width:80%">   <====== Green Bar
+       Test
+  </div>
+</div>
+
+===========================================================
+===========================================================
+
+<div class="progress">
+  <div class="progress-bar
+              progress-bar-success
+              progress-bar-striped
+              active"
+
+       role="progressbar"
+       aria-valuenow="80"
+       aria-valuemin="0"
+       aria-valuemax="100"
+       style="width:80%">
+    Test
+  </div>
+</div>

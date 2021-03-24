@@ -1,0 +1,3 @@
+<link rel="stylesheet" href="css/style.css" media="all">
+<link rel="stylesheet" href="css/style.css" media="screen">
+<link rel="stylesheet" href="css/style.css" media="print">

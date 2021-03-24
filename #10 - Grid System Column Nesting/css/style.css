@@ -1,0 +1,17 @@
+/* Global */
+.links
+{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #CCC
+}
+/* Global */
+
+.product
+{
+  background: #333;
+  color: #FFF;
+  margin-bottom: 10px;
+  padding: 10px;
+  min-height: 100px
+}
